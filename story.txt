@@ -1,2 +1,4 @@
 This is a story (Sentence 1).
 Adding a sentence (Sentence 2).
+I'm adding another sentence because the homework told me to (Sentence 3).
+
